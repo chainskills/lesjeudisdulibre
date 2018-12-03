@@ -37,6 +37,9 @@ Le cours est disponible à cette adresse: [https://www.udemy.com/getting-started
 
 Vous pouvez utiliser le code promo suivant:  LESJEUDIS
 
+# Podcast `ProofOfCast`
+Le podcast `ProofOfCast` est le podcast francophone qui vous explique, vous raconte et vous démystifie les crypto-monnaies, la blockchain et les plates-formes décentralisées: https://chainskills.com/subscribe-to-proofofcast/
+
 # Avertissement
 Les exemples de projet ne sont là que pour illustrer les concepts du développement avec la blockchain Ethereum.
 
